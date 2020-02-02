@@ -1,12 +1,10 @@
 ---
-title: Mission Statement
+title: Mission
 taxonomy:
     category:
         - docs
 visible: true
 ---
-
-# Mission
 To Glorify God by making disciples of Jesus Christ
 
 # Vision
