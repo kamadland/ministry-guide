@@ -1,15 +1,9 @@
 ---
-title: Overview
+title: Mission Statement
 taxonomy:
     category:
         - docs
 visible: true
----
-
----
-title: Mission Statement
-taxonomy:
-    category: docs
 ---
 
 # Mission
