@@ -1,5 +1,5 @@
 ---
-title: Intermediate
+title: Events
 taxonomy:
     category: docs
 child_type: docs
@@ -7,6 +7,6 @@ child_type: docs
 
 ### Chapter 2
 
-# Intermediate
+# Events
 
-Delve deeper into more **complex** topics
+How to plan, implement & evaluate both large & small events
