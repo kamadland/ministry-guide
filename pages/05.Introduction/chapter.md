@@ -7,6 +7,6 @@ child_type: docs
 
 ### Chapter 1
 
-# Youth Ministry Mission Statement
+# Youth Ministry Manual
 
-Discover the **basic** principles
+
