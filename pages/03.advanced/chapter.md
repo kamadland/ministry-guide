@@ -1,5 +1,5 @@
 ---
-title: Advanced
+title: Finances
 taxonomy:
     category: docs
 child_type: docs
