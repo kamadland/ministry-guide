@@ -31,7 +31,10 @@ visible: true
 
 |Evaluation|Comments, recommended changes or suggestions for improvement:|
 |----------|-------------------------------------------------------------|
-|Overall impression of the evening or event|   |
+|Promotion: Was it quality work? Timed appropriately? Did we promote enough? Any changes?|  |
+|Staffing: Did we have enought staff? Any problems? What was their eval of the event?|  |
+|Budget: Did the results justify the effort and money spent?|  |
+|Program: Overall impression/effectiveness of the evening or event. (Attach schedule)|   |
 |What was a highlight of this event - something that worked really well|   |
 |What was one thing that didn't go so well?|  |
 |Materials needed: What items, supplies, epquipment, etc, did we forget and should bring next time?|  |
