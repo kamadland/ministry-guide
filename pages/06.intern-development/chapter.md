@@ -6,6 +6,5 @@ taxonomy:
 
 ### Chapter Number
 
-# Chapter Title
+# Intern Development
 
-Chapter description.
