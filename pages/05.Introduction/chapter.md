@@ -9,6 +9,6 @@ child_type: docs
 
 # Youth Ministry Manual
 
-The mission & management of working with youth
+The mission & management of working with youth & youth leaders.
 
 
