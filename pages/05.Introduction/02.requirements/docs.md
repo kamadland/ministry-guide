@@ -1,42 +1,29 @@
 ---
-title: Requirements
+title: 'Ministry Vision'
 taxonomy:
-    category: docs
+    category:
+        - docs
+visible: true
 ---
 
-Lorem markdownum pius. Missa ultra adhuc ait reverti ubi soporem, **tibi iam**,
-esset, vates attonitas sede. Nympham Aeneia enim praecipuum poena Saturnia:
-fallis errabant, sub primo retro illo. Caesariem tincta natam contineat demens.
-*Si sed* ardescunt Delphice quasque alteraque servant.
+# Vision
+Through the guidance of the Holy Spirit, we seek to reach out cross-culturally, winning, equipping, and empowering people for ministry.
 
-O caligine cadunt nuper, institerant candida numerum, nec interius retenta
-circumspectis avis. Orantemque invidit illius de nam lanient pax clarique aquam,
-poenae, alto noceat.
+# Core Values
+1. Unreserved submission and obedience to our sovereign God.
+2. The Bible as God's infallible Word, and its authority in all matters of faith and practice.
+3. Fervent, authentic, Spirit-led worship of our sovereign triune God.
+4. Prayer - realizing our total dependence on God and the work of the Holy Spirit.
+5. Unity of purpose in the body of Christ.
+6. The gifts of the Spirit given to every believer and their expression in ministry.
+7. Commitment of every believer in service to Jesus Christ as seen in generous giving of time, energy and finances.
+8. Intentional evangelism to all peoples - local and world-wide.
+9. Intentional discipling of believers - bringing them to maturity in Christ.
+10. Inter-generational and cross-cultural ministry.
+11. Love for our neighbour - expressed by compassionate care to the needy in the church and in the community - local and world-wide.
+12. Our affiliation with the North American Baptist Conference (NABC) and endorsement of the NABC Statement of Beliefs.
 
-## Percussae oculos
 
-Defendentia **flammas mundi salutem** fraudate, non munus revirescere tamen,
-imago? Ad sit festumque [super](http://hipstermerkel.tumblr.com/) et dat vix
-pererrato vero gigantas territus natus: nata quaque: quia vindice [temptare
-semina](http://www.lipsum.com/)! Erit **simulacraque miserere ipsos**, vinci, et
-ignibus *qua* si illa, consequitur nova. Constitit habet coniugis; coegit nostri
-in fuissem!
 
-Figit ait si venit, **spumantiaque functus** addit capillis superabat sperata
-vestra. In nymphas cervus eram feret lingua, hunc, nulla quae. Gens *artisque*
-ad peregit nitido cursu pondere. Petitur ex virtus, terrae infesto Circen: voce
-roganti latet. Exit hydrae, expellitur onerosa gratissima iniustum Clytii
-crimen.
 
-## Pactique in quibus pariterque praebebat mare dapes
 
-Sonat timeam furori non Sigei furiali os ut, orbe! Moveri frontem incertae
-clamor incurvis quid eadem est dubium timor; fila. Suos *trepidaeque* cornua
-sparsus.
-
-Mihi [aut palustribus](http://www.billmays.net/), natus semilacerque audito
-Enaesimus, fuerat refert. Aevi et evadere potentior Pergama sis.
-
-Tenuere manu aut alba mercede, sanguine Aeginam interdum arboreis sentiat
-genitor aptarique ire de sub vehebat. Aspera sedesque, et tempus deseruere
-contenta, rex interea nisi arma.
