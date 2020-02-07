@@ -1,5 +1,5 @@
 ---
-title: Introduction
+title: 'Ministry Strategy'
 taxonomy:
     category: docs
 child_type: docs
