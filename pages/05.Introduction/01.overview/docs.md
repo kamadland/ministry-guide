@@ -1,10 +1,11 @@
 ---
-title: Mission
+title: 'Ministry Mission Statement'
 taxonomy:
     category:
         - docs
 visible: true
 ---
+
 To Glorify God by making disciples of Jesus Christ
 
 # Vision
