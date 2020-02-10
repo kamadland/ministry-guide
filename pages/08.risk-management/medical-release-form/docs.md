@@ -1,5 +1,6 @@
 ---
 title: 'Medical Release Form'
+media_order: '2019-2020 Medical Waiver.pdf'
 taxonomy:
     category:
         - docs
