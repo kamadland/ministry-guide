@@ -6,7 +6,7 @@ taxonomy:
 visible: true
 ---
 
-**Proposed Event:** Get That Gold - This is an event geared to encouraging students to persevere in their faith walk. It will include games, a message and a small group time. 
+**Proposed Event:** "Get That Gold" - This is an event geared to encouraging students to persevere in their faith walk. It will include games, a message and a small group time. 
 
 **Intended Audience:** Grade 8-12
 
@@ -23,7 +23,7 @@ visible: true
 
 **Event Approval:**
 
-Calendar Coordination: ______________________________________________   Date: --------------------
+Calendar Coordination: ______________________________________________   Date: ___________________
 
 Ministry Pastor: ____________________________________________________.  Date: ____________________
 
