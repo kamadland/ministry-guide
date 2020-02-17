@@ -6,7 +6,8 @@ taxonomy:
 visible: true
 ---
 
-**Proposed Event:** "Get That Gold" - This is an event geared to encouraging students to persevere in their faith walk. It will include games, a message and a small group time. 
+**Proposed Event:** "Get That Gold" - This is an event geared to encouraging students to persevere in their faith walk. It will include a screen game, a message, small group time, and a scavenger hunt. And to ramp up the fun, there is a Llama theme throughout. 
+(***This event is adapted from a Download Youth Ministry event package)
 
 **Intended Audience:** Grade 8-12
 
