@@ -1,9 +1,9 @@
 ---
 title: 'Event Execution Sheet'
+media_order: 'Get That Gold Schedule.pdf'
 taxonomy:
     category:
         - docs
 visible: true
 ---
 
-A detailed execution sheet for all leaders, similar to a "call sheet" (see example)
