@@ -18,3 +18,16 @@ visible: true
 |   |   |4 litres of Pop| $4.00|
 |   |   |Gold Medals from [Amazon](https://www.amazon.ca/dp/B01HS95YV0/ref=cm_sw_r_sms_tai_p0ZsEbYFC62SV)|$12.49|
 
+|-----------------+------------+-----------------+----------------|
+| Default aligned |Left aligned| Center aligned  | Right aligned  |
+|-----------------|:-----------|:---------------:|---------------:|
+| First body part |Second cell | Third cell      | fourth cell    |
+| Second line     |foo         | **strong**      | baz            |
+| Third line      |quux        | baz             | bar            |
+|-----------------+------------+-----------------+----------------|
+| Second body     |            |                 |                |
+| 2 line          |            |                 |                |
+|=================+============+=================+================|
+| Footer row      |            |                 |                |
+|-----------------+------------+-----------------+----------------|
+
