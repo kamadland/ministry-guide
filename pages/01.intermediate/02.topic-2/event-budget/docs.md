@@ -6,4 +6,10 @@ taxonomy:
 visible: true
 ---
 
-Include line items for each element of the event
+**Event Name:** Get That Gold
+
+|Income| Amount| Expenses| Amount|
+----------------------------------
+|Event Allotment| $400|  |   |
+|   |   | Event Kit from DYM| 0.00|
+
