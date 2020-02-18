@@ -1,5 +1,5 @@
 ---
-title: 'Event budget'
+title: 'Event budget. '
 taxonomy:
     category:
         - docs
