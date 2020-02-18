@@ -7,3 +7,4 @@ taxonomy:
 visible: true
 ---
 
+[pdfjs=Get-that-Gold-Schedule.pdf]
