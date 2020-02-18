@@ -7,4 +7,4 @@ taxonomy:
 visible: true
 ---
 
-[pdfjs=Get That Gold Schedule.pdf]
+[pdfjs=GetThatGoldSchedule.pdf]
