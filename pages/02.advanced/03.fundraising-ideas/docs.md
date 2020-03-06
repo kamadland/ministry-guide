@@ -19,3 +19,6 @@ Bethany Baptist Church is blessed with an industrial kitchen, which is attached 
 *  During lunch - usually there is some kind of presentation or program that includes the purpose of the fundraiser to help raise prayer and monetary support. 
 *  After Lunch - Dishes need to be done, tables and chairs put away and other miscellaneous cleanup - part of ministry and teamwork is learning that everyone stays until everything is done. 
 
+###### Conclusion
+This fundraiser is very simple in concept. We make smart use of our facilities. Little advertising is needed other than previous Sunday announcements, and the crowd is already present and receptive. Also, the groceries can be kept to a minimal cost. The event earns a good chunck of change and provides good exposure and positive community engagement.  
+
