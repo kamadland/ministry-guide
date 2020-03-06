@@ -13,6 +13,6 @@ This is a fundraising event that is super fun and can be "dressed up" to fit one
 For the amount of work the event takes, it isn't making the amount of money I would like to see. However, it has only just been done twice, and I have received strongly positive feedback. People would like to see it continue, so I am hoping the numbers will come. It is definitely a lot of fun. 
 
 **Level of Participant Involvement**
-Everyone participates in some way. Especially the day of the event. Food must be prepped, tables set up, registration, childcare, food sales, serving the food, and clean up. Prior to the event, there needs to be the solicitation of prizes from local businesses, advertising, online and in-person registration. The students find it difficult to solicit for prizes, but if they are up to it, it is great experience. During the event, there is also a presentation of what the fundraiser is for. 
+Everyone participates in some way. Especially the day of the event. Food must be prepped, tables set up, registration, childcare, food sales, serving the food, and clean up. Prior to the event, there needs to be the solicitation of prizes from local businesses, advertising, online and in-person registration. The students find it difficult to solicit for prizes, but if they are up to it, it is great experience. During the event, there is also a presentation of what the fundraiser is for. So all in all, though I organize and manage the event, the students run it. All hands on deck. 
 
 **Conclusion**
