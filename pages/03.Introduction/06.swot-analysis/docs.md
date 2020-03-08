@@ -38,5 +38,8 @@ On Sunday, February 23, 2020, I had the privilege of meeting with my Student Min
 * Be a crossing guard at our corner on Halloween, when the whole community is out at night. 
 
 ### Threats
+* Boomers - resistant to rapidly changing youth culture. Unwillingness to let go.
+* Finances - Church is house rich/cash poor in the most expensive city in North America - Most youth in the church too young to be at business meetings and have no say. 
+* Church Leadership - No representation or input from young adults/youth demographic - feeling of no voice.
 
 
