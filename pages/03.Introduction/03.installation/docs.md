@@ -21,7 +21,7 @@ According to the 2016 census, 60% of the population of Richmond are immigrants, 
 
 
 
-Sources for the information on this page came from: 
+Sources for the information on this page were retrieved on March 16,2020 & came from: 
 https://www.richmond.ca/discover/about/demographics.htm
 
 https://en.wikipedia.org/wiki/Richmond,_British_Columbia
