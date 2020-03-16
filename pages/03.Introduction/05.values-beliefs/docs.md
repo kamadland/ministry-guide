@@ -1,12 +1,12 @@
 ---
-title: 'Values & Beliefs'
+title: 'Beliefs & Values'
 taxonomy:
     category:
         - docs
 visible: true
 ---
 
-At Bethany Student Ministries
+### **At Bethany Student Ministries...**
 
 **We believe we exist to enjoy and glorify God**
 We love to have fun at Bethany Student Ministriess, but we have fun that is filled with purpose. We are not a ministry that runs events for the sake of simply occupying students. We run events to reflect God's love, to teach about him and his Good News, and to gloriy him, _while having fun._ We want our speech, our lives and how we love others to reflect God and be a witness for him. Therefore we will strive to have JOY - by putting Jesus first, others second and ourselves third. 
