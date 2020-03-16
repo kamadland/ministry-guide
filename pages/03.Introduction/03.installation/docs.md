@@ -1,18 +1,20 @@
 ---
-title: 'Demographics of the Community of Hamilton within Richmond & the Lower Mainland'
+title: 'Demographics of the Community'
 taxonomy:
     category:
         - docs
 visible: true
 ---
 
-3-5 pages
--Population description
--Average income
-- Average houseing cost
-- Race and ethnicity
-- Number of schools & type of schools, including higher ed
-- Primary and secondary industries
-- Churches and youth ministries in the community. Include their size and scope of outreach
-- Community services and organizations
-- A brief conjecture of the impact of these demographics on your ministry project
+Bethany Baptist Church is located in Metro-Vancouver, Canada. The location of the church is at one end of the city of Richmond, but sitting almost on the boundary line of two other cities, and just off two different bridges that lead to four other cities within minutes. Describing, then, the demographics that make up our church provides quite a challenge.
+
+Because the church is located in the City of Richmond, that puts us under their jurisdiction, it is who we pay taxed to, etc. Therefore, it is that city for which I will describe the demographics. Most of the people who attend the church from other cities have spread out over the years are connected historically. That will become evident in the next section on the demographics of the church
+
+##### Population
+The population of Richmond 
+
+
+
+
+
+
