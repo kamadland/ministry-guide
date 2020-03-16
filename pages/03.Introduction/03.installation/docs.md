@@ -11,7 +11,11 @@ Bethany Baptist Church is located in Metro-Vancouver, Canada. The location of th
 Because the church is located in the City of Richmond, that puts us under their jurisdiction, it is who we pay taxed to, etc. Therefore, it is that city for which I will describe the demographics. Most of the people who attend the church from other cities have spread out over the years are connected historically. That will become evident in the next section on the demographics of the church
 
 ##### Population
-The population of Richmond from a census
+A census in 2011 put the population of Richmond at 190,473. 
+A census in 2016 put the population of Richmond at 198,309.
+That is growth of 4.1% in 5 years.
+
+ric
 
 
 
