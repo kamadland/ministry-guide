@@ -35,3 +35,5 @@ Sources for the information on this page were retrieved on March 16,2020 & came 
 https://www.richmond.ca/discover/about/demographics.htm
 
 https://en.wikipedia.org/wiki/Richmond,_British_Columbia
+
+https://www.canadianrealestatemagazine.ca/top-neighbourhoods/richmond-bc-30520.aspx/
