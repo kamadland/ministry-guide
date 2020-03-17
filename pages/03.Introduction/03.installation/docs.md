@@ -15,7 +15,12 @@ A census in 2011 put the population of Richmond at 190,473.
 A census in 2016 put the population of Richmond at 198,309.
 That is growth of 4.1% in 5 years.
 
-According to the 2016 census, 60% of the population of Richmond are immigrants, which is the highest proportion in all of Canada
+According to the 2016 census, 60% of the population of Richmond are immigrants, which is the highest proportion in all of Canada.
+
+##### Average Income
+Again, the information comes from Stats Canada from the 2016 Census. 
+The median income per person, of 161,835 people earning income, was $25,482 per year.
+The average private household income, of 73,460 households, was $83,850 per year.
 
 
 
