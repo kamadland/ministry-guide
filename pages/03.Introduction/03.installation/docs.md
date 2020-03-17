@@ -22,9 +22,14 @@ Again, the information comes from Stats Canada from the 2016 Census.
 The median income per person, of 161,835 people earning income, was $25,482 per year.
 The average private household income, of 73,460 households, was $83,850 per year.
 
+As of March 2020, another source puts the average household income at $77,881.00.
+
 ##### Average housing cost
 The median price of houses in Richmond as of August 2016 was $998,000
 The median price of an apartment in Richmond at the same time was $479,444.
+
+As of March 17, 2020, the media price of a house in Richmone is $975,000, and the average price is $1,369,471.
+
 
 
 
@@ -37,3 +42,5 @@ https://www.richmond.ca/discover/about/demographics.htm
 https://en.wikipedia.org/wiki/Richmond,_British_Columbia
 
 https://www.canadianrealestatemagazine.ca/top-neighbourhoods/richmond-bc-30520.aspx/
+
+https://homeworthbc.ca/bc-real-estate/Richmond
