@@ -58,10 +58,10 @@ According to the Cityof Richmond and Stats Canada, "Richmond boasts a great dive
 
 
 Sources for the information on this page were retrieved on March 16,2020 & came from: 
-https://www.richmond.ca/discover/about/demographics.htm
+[https://www.richmond.ca/discover/about/demographics.htm]()
 
-https://en.wikipedia.org/wiki/Richmond,_British_Columbia
+[https://en.wikipedia.org/wiki/Richmond,_British_Columbia]()
 
-https://www.canadianrealestatemagazine.ca/top-neighbourhoods/richmond-bc-30520.aspx/
+[https://www.canadianrealestatemagazine.ca/top-neighbourhoods/richmond-bc-30520.aspx/
 
 https://homeworthbc.ca/bc-real-estate/Richmond
