@@ -23,7 +23,9 @@ The median income per person, of 161,835 people earning income, was $25,482 per 
 The average private household income, of 73,460 households, was $83,850 per year.
 
 ##### Average housing cost
-avera
+The median price of houses in Richmond as of August 2016 was $998,000
+The median price of an apartment in Richmond at the same time was $479,444.
+
 
 
 
