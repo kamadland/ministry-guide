@@ -22,6 +22,9 @@ Again, the information comes from Stats Canada from the 2016 Census.
 The median income per person, of 161,835 people earning income, was $25,482 per year.
 The average private household income, of 73,460 households, was $83,850 per year.
 
+##### Average housing cost
+avera
+
 
 
 
