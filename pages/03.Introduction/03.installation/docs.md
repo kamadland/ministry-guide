@@ -33,6 +33,32 @@ As of March 17, 2020, the media price of a house in Richmone is $975,000, and th
 ##### Race and ethnicity
 According to the Cityof Richmond and Stats Canada, "Richmond boasts a great diversity of backgrounds: over 150 different ethnic origins with at least 25 residents were reported."
 
+| Ethnic Origin| 2016 Census|
+----------
+Chinese
+107,080
+English
+18,015
+Filipino
+15,480
+Canadian
+13,540
+Scottish
+12,990
+East Indian
+12,335
+Irish
+9,960
+German
+8,525
+French
+5,445
+Japanese
+4,925
+Total Population
+196,660
+ Source: Statistics Canada, 2016 Census.
+Note: Total population accounts for persons in private households only. Does not include persons living outside Canada and persons living in collective dwellings.
 
 
 
