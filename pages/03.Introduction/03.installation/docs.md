@@ -90,6 +90,16 @@ Retail
 Technology 
 Tourism
 
+##### Churches & Youth Ministries in Richmond
+In our immediate community of Hamilton, we are the only church - and very visible.
+I also belong to something called the Hub. It is a group of Youth Pastors from Richmond that get together and support one another, as well as plan for city-wide youth events about once a month during the school year. This allows students to see the larger church, as well as notice other Christians from their own school perhaps. Some of the other churches are: 
+Richmond Baptist
+Fraserview MB
+Peace Mennonite
+Richmond Pentecostal
+The Tapestry
+
+
 
 
 
