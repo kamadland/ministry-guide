@@ -48,7 +48,9 @@ According to the Cityof Richmond and Stats Canada, "Richmond boasts a great dive
 | **Total Population** | **196,660** |
 
 ##### Schools
-In our immediate area, there are two elementary schools and one middle school. Hamilton Elementary goes to grade 7, is in our immediate community and considered in the city of Richmond. Another very close elementary school is Queen Elizabeth Elementary, but is considered to be in the city of New Westminster. This only goes to grade 4. New West also has a middle school
+In our immediate area, there are two elementary schools and one middle school. Hamilton Elementary goes to grade 7, is in our immediate community and considered in the city of Richmond. Another very close elementary school is Queen Elizabeth Elementary, but is considered to be in the city of New Westminster. This only goes to grade 4. New West also has a middle school which operates as grade 5 through 8. Even though this is considered a different city, it is extremely close to the church and we have lots of attendees from this community that is immediately beside ours. We also have homeschool families, and students from various schools from the cities across the bridges.
+
+Coming back around to the demographics of Richmond, there are several high schools in Richmond, but the kids from the community of Hamilton, where the church is located, are all bussed to McNair Secondary 
 
  
 
