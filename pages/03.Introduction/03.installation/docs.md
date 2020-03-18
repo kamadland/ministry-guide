@@ -80,6 +80,16 @@ Douglas College
 Emily Carr University of Art & Design
 
 ##### Primary & Secondary Industries of Richmond
+Agrifoods (Cranberries, blueberries, hay, field vegetables)
+Aviation (The Vancouver International Airport is actually in Richmond)
+Filming
+Health
+Logistics
+Manufacturing
+Retail
+Technology 
+Tourism
+
 
 
 
