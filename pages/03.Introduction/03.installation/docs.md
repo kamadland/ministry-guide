@@ -67,6 +67,20 @@ Sands Secondary (Delta)
 
 Our regular attendance is around 20 kids from Grade 8-12, so you can see that over half go to completely different high schools. They come on Friday nights to completely new and different friend groups than at school. If two kids go to the same school, it is usually because they are siblings. 
 
+There are also several options for post-secondary studies in the Metro-Vancouver area:
+University of British Columbia 
+Simon Fraser University
+Trinity Western University
+BCIT - British Columbia Institute of Technology
+Kwantlen Polytechnic University 
+Pacific Life Bible College
+Columbia Bible College
+Langara College
+Douglas College
+Emily Carr University of Art & Design
+
+##### Primary & Secondary Industries of Richmond
+
 
 
 
