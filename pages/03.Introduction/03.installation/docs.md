@@ -55,6 +55,18 @@ Richmond Secondary (Richmond)
 Richmond Christian (Richmond)
 Delview Secondary (Delta)
 Vancouver College (Vancouver)
+Panorama Ridge Secondary (Surrey)
+McRoberts Secondary (Richmond)
+Johnston Heights Secondary (Surrey)
+Pacific Academy (Surrey)
+Kwantlen Park Secondary (Surrey)
+New Westminster Secondary (New Westminster)
+Queensborough Middle (New Westminster)
+Burnsview Secondary (Delta)
+Sands Secondary (Delta)
+
+Our regular attendance is around 20 kids from Grade 8-12, so you can see that over half go to completely different high schools. They come on Friday nights to completely new and different friend groups than at school. If two kids go to the same school, it is usually because they are siblings. 
+
 
 
 
