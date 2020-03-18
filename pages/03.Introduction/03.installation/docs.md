@@ -108,6 +108,14 @@ Recreation and Parks officers community centres, fitness, aquatic centres and po
 Community services such as Richmond Cards, Richmod Gives, Richmond Multicultural Community Services, Richmond Society for Community Living helps those with special needs, and volunteerism is very strong. There is even a Richmond Community Services Advisory Council that brings together representatives from non-profits and government. 
 Richmond is also rich with museums, heritage sites and theatres, as well as 2010 Winter Olympic Games sites that can be visited.
 
+##### Impact on Ministry
+How this all affects our ministry is a complicated questions with a complicated answer. I think by seeing the above information as the context in which we do ministry would help shape how we do ministry. One thing is for certain, we cannot compete with all that is offered in our metropolotan area. Between sports clubs, school work and school play, arts, entertainment, a never-ending supply of restaurants and other fun things to do, there is no point in trying to "entertain" our youth. 
+
+Also, as is evident from the list of schools above and the various cities in which they are located, our church is a "commuter church", not a community church. We need to operate as such, and realize that events that are spontaneous and last minute will not be well-attended. People need to know well in advance of events, and there must be effective and thorough communication.
+
+There are also many opportunities to serve. We have many immigrants in our community. We also have many who are struggling to make ends meet; all you have to do is take a look at the cost of housing to know that. 
+
+
 
 
 
