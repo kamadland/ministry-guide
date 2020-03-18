@@ -103,9 +103,12 @@ Richmond Alliance
 None of these Churches or Youth Groups are especially large. Some of them are completely Asian and are held in Chinese.
 
 ##### Community Services & Organizations
-There are many community services.
+There are many community services & organizations.
 Recreation and Parks officers community centres, fitness, aquatic centres and pools, parks, park programming, community sports and more.
-Community services such as Richmond Cards, Richmod Gives, Richmond Multicultural Community Services, Richmond Society for Community Living helps those with special needs, 
+Community services such as Richmond Cards, Richmod Gives, Richmond Multicultural Community Services, Richmond Society for Community Living helps those with special needs, and volunteerism is very strong. There is even a Richmond Community Services Advisory Council that brings together representatives from non-profits and government. 
+Richmond is also rich with museums, heritage sites and theatres, as well as 2010 Winter Olympic Games sites that can be visited.
+
+
 
 
 
