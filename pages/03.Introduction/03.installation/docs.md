@@ -98,6 +98,9 @@ Fraserview MB
 Peace Mennonite
 Richmond Pentecostal
 The Tapestry
+Richmond Alliance
+
+None of these Churches or Youth Groups are especially large. Some of them are completely Asian and are held in Chinese.
 
 
 
