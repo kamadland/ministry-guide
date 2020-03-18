@@ -31,7 +31,7 @@ The median price of an apartment in Richmond at the same time was $479,444.
 As of March 17, 2020, the media price of a house in Richmone is $975,000, and the average price is $1,369,471.
 
 ##### Race and ethnicity
-According to the Cityof Richmond and Stats Canada, "Richmond boasts a great diversity of backgrounds: over 150 different ethnic origins with at least 25 residents were reported."
+According to the Cityof Richmond and Stats Canada, "Richmond boasts a great diversity of backgrounds: over 150 different ethnic origins with at least 25 residents were reported." The founding cultures of Richmond were First Nations, British European, Japanese, & Chinese.
 
 | Ethnic Origin | 2016 Census |
 | ---------- | ------- |
@@ -101,6 +101,7 @@ The Tapestry
 Richmond Alliance
 
 None of these Churches or Youth Groups are especially large. Some of them are completely Asian and are held in Chinese.
+
 
 
 
