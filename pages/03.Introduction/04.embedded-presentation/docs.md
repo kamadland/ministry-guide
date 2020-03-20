@@ -43,4 +43,4 @@ This is not something that our church tracks or asks for.
 Current Year's Budget: $1,088,824
 Student Ministries Budget: $13,000, which is 1.19% of the total budget. This is for ministry activities only. Staff not included.
 
-Student Ministries Budget (incl. Staff salary)
+Student Ministries Budget (incl. staff salary): $102,000, which is 9.4% of the total budget. 
