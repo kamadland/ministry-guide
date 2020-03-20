@@ -29,4 +29,18 @@ The Student Ministries at Bethany now encompass those from grade 6 through to mi
 #### Governing Structure
 Bethany has recently moved to a new governance structure - away from a management board to a governance board that sets the vision and then mandates the staff to follow and implement that vision. A good illustration would be that of a sandbox. The Board sets the perimeter of the sandbox and fills it with sand. Then the staff member granted charge over that sandbox can do whatever they like in there as long as they stick to their own sandbox and stay within its boundaries. This frees us as staff to make decisions and spend money (within limits) without having every little thing approved by a committee. 
 
+#### Median Age of the Congregation
+Looking over the members of the congregation of the database, we don't have birthdays or ages for many of them. With the numbers we had (for about 2/3 of them), the median age was about 30. 
+On Sunday mornings, we have a healthy representation of all age ranges in our attendance of about 330. 
 
+#### Marriage & Family Status
+We preach that marriage has been mandated since creation for humans to be between one man and one woman. That does not mean that all people need to seek marriage, but that is the place for sex and the place to have children. We recognize, however, that that is the ideal. We are strive for that ideal, but we also live in a fallen world where sin happens and grace is needed. We have representation in our congregation of all kinds of situations, and it mirrors secular society. There are lots of marriages, from new ones to ones that are celebrating 60 years of marriage. We also have separations and divorces. We have single moms from within the church and from the community who need love and support. We have a mix of married and single people, and we need to minister to everyone. 
+
+#### Median Income
+This is not something that our church tracks or asks for. 
+
+#### Church Budget
+Current Year's Budget: $1,088,824
+Student Ministries Budget: $13,000, which is 1.19% of the total budget. This is for ministry activities only. Staff not included.
+
+Student Ministries Budget (incl. Staff salary)
