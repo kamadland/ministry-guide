@@ -6,15 +6,6 @@ taxonomy:
 visible: true
 ---
 
-Include:
--A brief history of the church and the youth ministry
-- Governing structure (eg. elders, board of directors, committees)
-- Median age of the congregation
-- marital and family status
-- median income (not something we collect) perhaps a socioecomonic eval?
-- Church budget: include toatl for the year, plus both the percentage and the actual figure of the youth ministry budget.
-- Youth ministry: grades, gender, economic situation, number of school attended, spiritual state, etc. Plus other categories i think pertinent to describe the ministry.
-
 #### A Brief History of Bethany Baptist Church
 
 Bethany Baptist was founded or planted in June 1937 by 38 members from the First German Baptist Church in Vancouver. By 1939, they had their first building on 47th Ave and Prince Albert Street in Vancouver, BC. All services were held in German. Serveral young men from Bethany serviced in WWII, but all came back safely. Soon after the war, many immigrants from Germany and the rest of Europe came to Vancouver, and Bethany was active in helping with post-war relief. By 1946, there was a youth group that was meeting. There is a picture in the 50th anniversary pictorial book of a group of 11 teens. By the mid-50's, Bethany had grown so much through immigration that they took up the challenge of dividing into about half and planting a new church, and Immanual Baptist Church was formed. 
@@ -44,3 +35,5 @@ Current Year's Budget: $1,088,824
 Student Ministries Budget: $13,000, which is 1.19% of the total budget. This is for ministry activities only. Staff not included.
 
 Student Ministries Budget (incl. staff salary): $102,000, which is 9.4% of the total budget. 
+
+- Youth ministry: grades, gender, economic situation, number of school attended, spiritual state, etc. Plus other categories i 
