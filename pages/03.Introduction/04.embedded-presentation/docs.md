@@ -36,4 +36,12 @@ Student Ministries Budget: $13,000, which is 1.19% of the total budget. This is 
 
 Student Ministries Budget (incl. staff salary): $102,000, which is 9.4% of the total budget. 
 
-- Youth ministry: grades, gender, economic situation, number of school attended, spiritual state, etc. Plus other categories i 
+#### Youth Ministry
+Grades 8-12 make up the Youth Group at Bethany Baptist. 
+They are a mixed gender group that lives in a world that stuggles with gender identity. We don't have a student at the moment who is outwardly struggling with this, but I am sure there is a lot of that going on inwardly. We have talked about it and continue to talk about it as openly as possible. The struggle is very real for some, and we want to be a safe place. 
+
+Economically, as a church we are fairly well off. We do not struggle for a yearly budget, we have amazing facilities, and when we fundraise for missions trips, the people of the church are extremely generous. As for the economic situation of the students themselves, that varies from student to student. Some are from lower-middle class homes, others are from fairly well-off homes, and then everything in between. 
+
+Having just done the community demographics, I discovered that we have 12 schools represented by our youth, who number under 30 students on a Friday night. This has pros and cons. There are not really any preset cliques that spill over from school into youth group. But it also means there is less of a sense of comraderie and commonality among them. It also makes for a LOT of school plays or sports events to attend!! 
+
+The spiritual state of the group is a little fascinating to me. I feel like they are willing to be spiritually challenged, but it is also very easy to slip into birthday party mode where all we do is etertain and have a themed party on Friday night. In light of that, I have done a series on Spiritual Disciplines to try to combat the apathy in some. Also, I believe that Covid-19 is having an effect on the group to not take things for granted, and also to look for ways to help. I also realize that as the youth pastor, some of the state of the youth group is my responsibility. I want to strive to have a godly purpose in each event, to show them how much God loves them. 
