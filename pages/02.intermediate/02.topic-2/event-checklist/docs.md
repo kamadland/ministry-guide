@@ -1,5 +1,5 @@
 ---
-title: 'May Camp checklist'
+title: 'May Camp Checklist'
 taxonomy:
     category:
         - docs
