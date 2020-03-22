@@ -1,6 +1,6 @@
 ---
 title: 'Event Execution Sheet'
-media_order: may-camp-2020-schedule.pdf
+media_order: May-Camp-2020-Schedule.pdf
 taxonomy:
     category:
         - docs
