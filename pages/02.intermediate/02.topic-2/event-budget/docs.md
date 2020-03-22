@@ -1,5 +1,5 @@
 ---
-title: 'May Camp Financials 2018'
+title: 'May Camp Financials 2018 (Budget)'
 media_order: May-Camp-Fund-details-2018.pdf
 taxonomy:
     category:
