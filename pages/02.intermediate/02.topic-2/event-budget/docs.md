@@ -9,7 +9,7 @@ visible: true
 
 These financials are from May Camp 2018. The only difference from year to year is inflation, and perhaps the cost of the band and sound rentals being higher or lower depending on who we are able to contract. Every 3 or 4 years we try to find an up and coming band, and pay a little more to have a group that is a bit more professional. 
 
-1) We start off by getting a base price from the camp for how much each camper will cost them: food, lodging, activities provided. 
+1) We start off by getting a base price from the camp for how much each camper will cost them: food, lodging, activities provided. The camp is part of the BC NAB Association, and thus gives us a huge discount so we can keep the cost low for the students.
 2) Then, as orgainzers, we add in the cost of t-shirts, the speaker, and the band, to come up with a May Camp price. Only the youth pastors see this price, and this is the price that each church is responsible to pay to Bethany Baptist per student for May Camp.
 3) Each youth pastor is then responsible to decide how much each student will pay for transportation to the Bible camp, and add that to the May Camp price. This is the price that goes onto each church's brochure (which is edited accordingly with church-specific information). 
 4) We are also gifted a grant from the BC NAB Association in support of this event, which goes annually into our May Camp fund.
