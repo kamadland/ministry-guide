@@ -17,4 +17,7 @@ visible: true
 |   |Show options for and agree on branding for t-shirts|YP who volunteered to do branding along with all YPs||
 |**2-1 MONTHS**|Start advertising for May Camp and ramp it up each week for a month to encourage timely registration|Each YP||
 |   |Edit the registration brochure to the specifications of your church, print them off and hand them out to the students|Each YP||
+|**2-4 WEEKS**|With the main registration deadline being a month before, most registrations should be in. Collect registration data from each youth pastor at the 4 week mark and at the 2 week mark: number of girls, guys, male & female leaders, numbers of students signed up for each activity, food allergies, dietary requests| Bethany YP||
+|   |Convey numbers in each activity to Green Bay Bible Camp so they can have staff on hand|Bethany YP||
+|   |Assign rooms to each church for males and females| Bethany YP||
 
