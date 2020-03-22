@@ -7,5 +7,5 @@ taxonomy:
 visible: true
 ---
 
-[pdfjs=May-Camp-2020-Schedule.pdf]
+[pdfjs="May-Camp-2020-Schedule.pdf"]
 
