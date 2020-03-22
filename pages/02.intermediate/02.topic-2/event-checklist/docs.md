@@ -12,3 +12,5 @@ visible: true
 |**6-9 MONTHS**|YPs start meet monthly online to brainstorm and assign various roles| All involved YPs|
 |  |Work on getting a speaker and a band (really, this should be recruiting for the year following. This year we recruited for 2 bands; one for this May, and one for May 2021)|YPs who volunteered||
 |**2-6 MONTHS**|YPs meet weekly online to decide the following: Theme, branding, activities by camp, activities by YPs| All involved YPs||
+|   |Finalize the contract with Green Bay Bible Camp| YP from Bethany Baptist||
+
