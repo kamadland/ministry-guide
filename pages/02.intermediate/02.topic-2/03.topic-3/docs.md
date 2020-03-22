@@ -7,3 +7,4 @@ taxonomy:
 visible: true
 ---
 
+[pdfjs=May-Camp-2020-Brochure.pdf]
