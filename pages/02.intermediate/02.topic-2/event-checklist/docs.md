@@ -21,4 +21,11 @@ visible: true
 |**2-4 WEEKS**|With the main registration deadline being a month before, most registrations should be in. Collect registration data from each youth pastor at the 4 week mark and at the 2 week mark: number of girls, guys, male & female leaders, numbers of students signed up for each activity, food allergies, dietary requests| Bethany YP||
 |   |Convey numbers in each activity to Green Bay Bible Camp so they can have staff on hand|Bethany YP||
 |   |Assign rooms to each church for males and females| Bethany YP||
+|   |Have honorarium cheques cut for the speaker and the band|Bethany YP||
+|**2 weeks**|Send number of kids and all alergies and/or special dietary requests to the camp kitchen| Bethany YP||
+|   |Continue to advertise to the students and generate excitement. Make sure they know what to bring, what not to bring, departure and arrival times|Each YP||
+|   |Communicate same to parents|Each YP||
+|   |Confirm transportation and communicate departure and arrival times, provide maps/directions, etc| Each YP||
+|   |Have final online meeting with YPs to make sure everyone is on the same page, all tasks assigned, and to answer any other questions| All YPs||
+|**May Long Weekend**| Please see Event Execution sheet|All YPs||
 
