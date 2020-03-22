@@ -1,5 +1,5 @@
 ---
-title: 'Webpage for participants'
+title: 'Printable May Camp Info & Registration Brochure'
 media_order: May-Camp-2020-Brochure.pdf
 taxonomy:
     category:
