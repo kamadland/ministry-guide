@@ -14,7 +14,7 @@ The youth pastors of the BC NAB Association would like to hold an annual youth r
 **Purpose of Event:** The purpose of this event is to bring youth together from the NAB churches from all over BC to
 experience a time of renewal, worship and spiritual growth with peers from the larger Church.
 
-**Budget:** $155 per camper base price. This will not include travel. Each church will need to add onto that price for travel costs from each church to Kelowna. Bethany Baptist will charge $200 per student, as well as supplement the cost of the bus from Richmond to Kelowna. 
+**Budget:** $155 per camper base price. This will not include travel. Each church will need to add onto that price for travel costs to Kelowna. Bethany Baptist will charge $200 per student, as well as supplement the cost of the bus from Richmond to Kelowna. Each student will be responsible for paying their own way. The costs of leaders going will be covered by the church, which will amount to approximately $1000, as well as part of the cost of the bus, which will amount to approximately $3000. Some of this is budgeted for in the annual youth budget, and some of the cost will be covered by fundraising. 
 
 **Event Agenda** Friday, May 15, 2020 at 7:00 pm through Monday, May 18, 2020 at noon. (see Event Execution page for a detailed schedule)
 
