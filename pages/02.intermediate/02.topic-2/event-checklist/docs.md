@@ -16,5 +16,5 @@ visible: true
 |   |Finish registration brochure and send to YP for church-specific editing|YP who voluteered||
 |   |Show options for and agree on branding for t-shirts|YP who volunteered to do branding along with all YPs||
 |**2-1 MONTHS**|Start advertising for May Camp and keep it going strong for this month to encourage timely registration|Each YP||
-|After editing the registration brochure to the specifications of your church, print them off and hand them out to the students|Each YP||
+|   |After editing the registration brochure to the specifications of your church, print them off and hand them out to the students|Each YP||
 
