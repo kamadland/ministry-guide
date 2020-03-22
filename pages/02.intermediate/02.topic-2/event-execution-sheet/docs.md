@@ -1,10 +1,10 @@
 ---
 title: 'Event Execution Sheet'
-media_order: Get-That-Gold-Schedule.pdf
+media_order: 'May Camp 2020 Schedule .docx'
 taxonomy:
     category:
         - docs
 visible: true
 ---
 
-[pdfjs=Get-That-Gold-Schedule.pdf]
+[docjs=May-Camp-2020-Schedule.doc]
