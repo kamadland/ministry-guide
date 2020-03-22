@@ -22,11 +22,11 @@ visible: true
 **Goals of the event or from it:**
 
 
-##### |How many in the room?|
-----------------------
-|Students ______________|
-|Staff ______________  |
-|Total_________________|
+|How many in the room?|   |
+|----------|------------|
+|Students|  |
+|Staff|   |
+|Total|   |  
 
 
 
