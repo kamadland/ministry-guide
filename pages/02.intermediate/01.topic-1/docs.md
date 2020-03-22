@@ -15,14 +15,14 @@ visible: true
 **Group:**_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 **Leader:**_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ 
 
-**PURPOSE**
+**Purpose of the event:**
 
 
 
-**GOALS**
+**Goals of the event or from it:**
 
 
-|How many in the room?|
+##### |How many in the room?|
 ----------------------
 |Students ______________|
 |Staff ______________  |
