@@ -1,5 +1,5 @@
 ---
-title: 'Bright Line Safety Policies'
+title: 'Bright Line Safety Policiesj'
 taxonomy:
     category:
         - docs
@@ -13,4 +13,4 @@ The first three beliefs and values of Bethany Student Ministries reads like this
 
 Creating a safe environment for students and leaders alike is important for the reasons stated above. If we believe these things, then we need to live them. First, if we aren't creating a safe environment for students, but rather one in which a person could be harmed, then we are not glorifying God and the victim cannot enjoy God. Secondly, in a non-safe enviromnent, we would be treating the victim like they didn't matter because we would have created or allowed conditions in which they were harmed. Thirdly, we would be hypocrites because we said we believed in being a safe place when we actually didn't. 
 
-All that aside, it is important to create an enviroment that keeps people safe from harm and also safe from false accusations. The idea of Brigh Line Safety policies is that people know when they have crossed the line because the lines are bright - clearly laid out. 
+All that aside, it is important to create an enviroment that keeps people safe from harm and also safe from false accusations. The idea of Bright Lines in ministry policies and behaviour is so that people know when others have stepped over those lines. Thus they need to be clearly laid out. 
