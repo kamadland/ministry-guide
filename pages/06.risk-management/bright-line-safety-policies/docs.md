@@ -20,5 +20,6 @@ Here are some of the bright lines in our ministry that should not be stepped on 
 * Sexual immoral behaviour.
 * Living with a partner before marriage
 * Addiction that is untreated or unsupported
-* Any kind of physical discipline of a student
-* Inappropriate social media use, including one-on-one extended messaging of a non-family student.
+* Any kind of physical discipline of a student by a leader.
+* Inappropriate social media use, including one-on-one extended messaging of a non-family student from a leader.
+* 
