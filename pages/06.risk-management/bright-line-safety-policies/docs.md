@@ -17,9 +17,13 @@ All that aside, it is important to create an enviroment that keeps people safe f
 
 Here are some of the bright lines in our ministry that should not be stepped on or over:
 
-* Sexual immoral behaviour.
+* Sexually immoral behaviour
 * Living with a partner before marriage
 * Addiction that is untreated or unsupported
 * Any kind of physical discipline of a student by a leader.
 * Inappropriate social media use, including one-on-one extended messaging of a non-family student from a leader.
-* 
+* Time alone with a student in places that are not public.
+* Developing an emotional or sexual relationship with a student.
+* Lap sitting or full-on hugs between leaders and students.
+* Driving a student alone (one-on-one) without parent's knowledge or permission.
+* Unauthorized adults in the ministry area.
