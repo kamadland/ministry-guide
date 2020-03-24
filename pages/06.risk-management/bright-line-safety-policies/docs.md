@@ -15,8 +15,8 @@ Creating a safe environment for students and leaders alike is important for the 
 
 All that aside, it is important to create an enviroment that keeps people safe from harm and also safe from false accusations. The idea of "bright lines" in ministry policies and behaviour is so that people know when someone has stepped over those lines. Thus they need to be clearly laid out so everyone knows what they are signing up for and where the lines in the sand are.
 
-Here are some of the bright lines in our ministry:
-For Leaders:
+Here are some of the bright lines in our ministry that should not be stepped on or over:
+
 * Sexual immoral behaviour.
 * Living with a partner before marriage
 * Addiction that is untreated or unsupported
