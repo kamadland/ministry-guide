@@ -1,5 +1,5 @@
 ---
-title: 'Bright Line Safety Policiesj'
+title: 'Bright Line Safety Policies'
 taxonomy:
     category:
         - docs
