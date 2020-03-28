@@ -21,8 +21,8 @@ visible: true
 **GOALS**
 
 
-|How many in the room?|
-----------------------
+|How many in the room?|   ||
+|--------------|--------||
 |Students ______________|
 |Staff ______________  |
 |Total_________________|
