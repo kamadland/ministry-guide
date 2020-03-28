@@ -6,7 +6,6 @@ taxonomy:
 visible: true
 ---
 
-# Vision
 **Through the guidance of the Holy Spirit, we seek to reach out to all kinds of students, winning, equipping, and empowering them for ministry.**
 
 This is the same ministry vision as the rest of our church, with a couple of minor tweaks. The original is, "Through the guidance of the Holy Spirit, we seek to reach out cross-culturally, winning, equipping, and empowering people of ministry." 
