@@ -19,13 +19,15 @@ visible: true
 
 
 
-**GOALS**
+**OBJECTIVES**
 
 
 
 
 
-|How many in the room?|No.||
+
+
+|How many in the room?|No. ||
 |--------------|--------||
 |Students|  ||
 |Staff|  ||
