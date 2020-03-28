@@ -19,14 +19,14 @@ visible: true
 
 
 
-**Goals of the event or from it:**
+**Objectives:**
 
 
-|How many in the room?|   |
-|----------|------------|
-|Students|  |
-|Staff|   |
-|Total|   |  
+|How many in the room?|No.   ||
+|----------|------------||
+|Students|   ||
+|Staff|   ||
+|Total|   ||  
 
 
 
