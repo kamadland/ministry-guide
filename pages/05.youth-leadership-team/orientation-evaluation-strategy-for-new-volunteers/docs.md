@@ -9,14 +9,13 @@ visible: true
 
 ![alt-text](BethanyLogo.png "bethany baptist church logo")
 
-At Bethany Baptist Church, we recruit leaders by invited those we know or observe who would be a potentially good addition to our team and as role models and disciplers of the students. 
+At Bethany Baptist Church, we recruit leaders by inviting those we know or observe to be a potentially good addition to our team as role models and disciplers of the students. 
 
-It may take weeks or months to continue engaging with potential team members. I am always speaking with people about their gifts and how they might be able to serve the Body of Christ. If their gifts fit with Student Ministries, then the invitation is given. 
+It may take weeks or months to continue engaging with potential team members. I am always speaking with people about their gifts and how they might be able to serve the Body of Christ, especially in Student Ministries. If their gifts fit with Student Ministries, then the invitation is given. 
 
-If someone expresses interest in serving in Student Ministries then the process below begins: 
+If an invitation is given to consider joining the Student Ministries team, and they accept, then the process below begins: 
 
-
-4 Step Plug-in Process:  Student Ministry Volunteer Process
+**4 Step Plug-in Process for Student Ministries**
 1.	Observation
 o	Observation  - Potential volunteers observe areas of ministry twice and are given an Observation packet that includes job descriptions, leader info package, and leader application.
 2.	Interview 
