@@ -5,6 +5,6 @@ taxonomy:
     category: docs
 ---
 
-## TEAM
+## <center>TEAM</center>
 
 ![alt-text](BethanyLogo.png"Bethany Baptist Church Logo")
