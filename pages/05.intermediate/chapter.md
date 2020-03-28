@@ -5,8 +5,8 @@ taxonomy:
 child_type: docs
 ---
 
-### Chapter 2
 
-# Events
 
-How to plan, implement & evaluate both large & small events
+# **<center>Events</center>**
+
+
