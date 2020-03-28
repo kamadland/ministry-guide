@@ -22,6 +22,10 @@ visible: true
 **Objectives:**
 
 
+
+
+
+
 |How many in the room?|No.   ||
 |----------|------------||
 |Students|   ||
