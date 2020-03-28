@@ -21,11 +21,11 @@ visible: true
 **GOALS**
 
 
-|How many in the room?|   ||
+|How many in the room?|No.||
 |--------------|--------||
-|Students ______________|
-|Staff ______________  |
-|Total_________________|
+|Students|  ||
+|Staff|  ||
+|Total|  ||
 
 
 
