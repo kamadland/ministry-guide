@@ -1,10 +1,9 @@
 ---
-title: 'Intern Development'
+title: 'Student Ministries Intern '
 taxonomy:
     category: docs
 ---
 
 ### Chapter Number
 
-# Intern Development
 
