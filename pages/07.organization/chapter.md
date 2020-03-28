@@ -4,7 +4,5 @@ taxonomy:
     category: docs
 ---
 
-
-
-# ORGANIZATION
+## ORGANIZATION
 
