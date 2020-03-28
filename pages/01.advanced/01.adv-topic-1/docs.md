@@ -6,7 +6,7 @@ taxonomy:
 visible: true
 ---
 
-###### **September 2019 – August 2020**
+###### ** <center>September 2019 – August 2020</center>**
 
 ##### **Total $ 13,000**
 
