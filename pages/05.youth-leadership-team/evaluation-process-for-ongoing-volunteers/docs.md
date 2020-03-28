@@ -6,6 +6,7 @@ taxonomy:
 visible: true
 ---
 
+**Ongoing Mentoring of Volunteer Leadership Team**
 Because the volunteer positions in youth ministry are highly relational, each volunteer will be mentored in a relational manner. It is difficult to quantify a relational ministry. Therefore, at regular intervals, each volunteer will meet with the Youth Pastor and be guided through a self-relfective process in the following areas: 
 * How well they are meeting expectations of the job description.
 * Are they showing up regularly to Pre-Ministry meetings, training, and actual ministry times?
@@ -15,5 +16,9 @@ Because the volunteer positions in youth ministry are highly relational, each vo
 	- what challenges are they experiencing?
 	- What wins have they had? 
 * How can I (the youth pastor) support them and pray for them? 
+
+**Process of Confrontation & Dismissal**
+The above process of relational mentoring and feedback from the youth pastor should avoid the need for confrontation of minor issues. Through the above process with the guidance of the youth pastor, volunteers should become aware of any expectations not being met (which they agreed to in the orientation and application process), and committ to self-correction. If over the course of several mentoring sessions, the self-correction has not happened, then the youth pastor may suggest that a different area of ministry might be best, or a time away from student ministry might be best. 
+
 
 
