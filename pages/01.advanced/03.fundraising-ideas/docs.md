@@ -6,7 +6,7 @@ taxonomy:
 visible: true
 ---
 
-# **Taco Salad Bar Lunch Fundraiser**
+# **Taco Salad Bar Lunch Fund-Raiser**
 Bethany Baptist Church is blessed with an industrial kitchen, which is attached to a full-sized gym. On several designated Sunday's throughout the school year, the youth will hold a lunch after the Sunday Service. We set up tables and chairs, cook the food, serve it, and clean up. The entire congregation is invited to stay after the service and enjoy a build-your-own taco salad lunch by donation. It is cheaper than eating out and goes to a good cause. It also helps build community as people get a chance to stick around and visit leisurely after church. The beauty of the taco salad bar is that it is a gluten-free meal that serves everyone. 
 
 **Anticipated Income** - We have a congregation of about 330. Of course, not everyone stays for lunch, but the last time we held this lunch we made $2300 after paying for the groceries. Over the course of last year's fundraising efforts for a missions trip, we did 3 of these lunch fundraisers and they brought in a third of our monetary goal. They beauty of advertising these and sharing at them what the fundraising is for is that the event provides exposure and information about the ministry opportunities and discipleship of the youth at the church. That also spurs individual donations through church, which actually has provided another third of our monetary goal. 
