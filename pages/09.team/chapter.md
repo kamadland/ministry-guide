@@ -1,10 +1,9 @@
 ---
 title: TEAM
+media_order: BethanyLogo.png
 taxonomy:
     category: docs
 ---
-
-
 
 ## TEAM
 
