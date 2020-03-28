@@ -1,5 +1,5 @@
 ---
-title: 'Ministry Strategy'
+title: STRATEGY
 media_order: BethanyLogo.png
 taxonomy:
     category: docs
