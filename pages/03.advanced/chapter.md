@@ -5,8 +5,6 @@ taxonomy:
 child_type: docs
 ---
 
-
-
-## # Finances
+## Finances
 
 
