@@ -5,7 +5,7 @@ taxonomy:
 child_type: docs
 ---
 
-### Chapter 3
+### Chapter 1
 
 # Finances
 
