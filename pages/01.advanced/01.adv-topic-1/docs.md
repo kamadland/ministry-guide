@@ -6,8 +6,7 @@ taxonomy:
 visible: true
 ---
 
-**Student Ministries Budget  
-September 2019 – August 2020**
+**September 2019 – August 2020**
 
 Total $ 13,000
 
