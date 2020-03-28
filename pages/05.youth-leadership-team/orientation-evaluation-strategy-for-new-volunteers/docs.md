@@ -17,9 +17,9 @@ If an invitation is given to consider joining the Student Ministries team, and t
 
 **4 Step Plug-in Process for Student Ministries**
 ###### **1.	Observation**
-Potential volunteers observe areas of ministry twice and are given an Observation packet that includes job descriptions, leader info package, and leader application.
-2.	Interview 
-o	Potential Volunteer Interview - All potential volunteers will meet with our youth pastor and one other youth leader for a 30 minute interview to help determine your area of interest, our needs, expectations, and potential start date.
+Potential volunteers observe areas of ministry twice and are given an Observation Packet that includes job descriptions, a leader info package, and a leader application.
+###### **2.	Interview** 
+ All potential volunteers will meet with our youth pastor and one other youth leader for a 30 minute interview to help determine your area of interest, our needs, expectations, and potential start date.
 3.	Training
 o	New volunteers are required to attend Leadership Training just before kick-off.
 4.	1st Serve
