@@ -8,7 +8,7 @@ visible: true
 ---
 
 ## STUDENT MINISTRY VOLUNTEER PROCESS
-
+![](BethanyLogo.png)
 
 At Bethany Baptist Church, we recruit leaders by invited those we know or observe who would be a potentially good addition to our team and as role models and disciplers of the students. 
 
