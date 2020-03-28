@@ -6,6 +6,8 @@ taxonomy:
 child_type: docs
 ---
 
+##### **<center>Section 2</center>**
+
 # **<center>STRATEGY</center>**
 
 ![alt-text](BethanyLogo.png "Bethany Baptist Church Logo")
