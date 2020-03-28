@@ -25,6 +25,6 @@ May Camp: $2500 (covers the cost to send our leaders to camp).
 
 
 **Leadership Development: $2500** (covers cost for all SLT & Adult Leader training including monthly meeting food costs as well as leadership training offered in partnership with Green Bay).
-
+______________________________________________________________________________________________________________________
  
-
+Please note: Bethany Baptist has an accountant to whom I submit all receipts. She does all the accounting in regards to tracking income and expenses. I know the average amount I can spend on a large event, and meet with her regularly  to track where we are in our spending.  
