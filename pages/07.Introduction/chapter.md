@@ -1,14 +1,13 @@
 ---
 title: 'Ministry Strategy'
+media_order: BethanyLogo.png
 taxonomy:
     category: docs
 child_type: docs
 ---
 
-### Chapter 1
+# **<center>STRATEGY</center>**
 
-# Youth Ministry Manual
-
-The mission & management of working with youth & youth leaders.
+![alt-text](BethanyLogo.png "Bethany Baptist Church Logo")
 
 
