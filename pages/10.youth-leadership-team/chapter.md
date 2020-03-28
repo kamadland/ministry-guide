@@ -1,10 +1,11 @@
 ---
-title: 'Leadership Team '
+title: 'TEAM '
+media_order: BethanyLogo.png
 taxonomy:
     category: docs
 ---
 
-### Chapter Number
+# **<center>TEAM</center>**
 
-# Youth Ministry Leadership Team
+![alt-text](BethanyLogo.png "Bethany Baptist Church Logo")
 
