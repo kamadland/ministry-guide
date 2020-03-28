@@ -16,15 +16,15 @@ Small Groups: $1000 (covers all curriculum, supplies, snacks, etc).
 
 May Camp: $2500 (covers the cost to send our leaders to camp).
 
-TOTAL Youth/iConnect = **$7500**
+**TOTAL Youth/iConnect = $7500**
 
 
-Young Adults: **$1000** (covers curriculum and some supplies for social events).
+**Young Adults: $1000** (covers curriculum and some supplies for social events).
 
-Miscellaneous & General Supplies: **$2000** (eg. Bibles for new students, room supplies, summer events, etc). 
+**Miscellaneous & General Supplies: $2000** (eg. Bibles for new students, room supplies, summer events, etc). 
 
 
-Leadership Development: **$2500** (covers cost for all SLT & Adult Leader training including monthly meeting food costs as well as leadership training offered in partnership with Green Bay).
+**Leadership Development: $2500** (covers cost for all SLT & Adult Leader training including monthly meeting food costs as well as leadership training offered in partnership with Green Bay).
 
  
 
