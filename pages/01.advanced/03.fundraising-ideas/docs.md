@@ -1,5 +1,5 @@
 ---
-title: 'Fund-raising Idea #1'
+title: 'Fund-Raising Idea #1'
 taxonomy:
     category:
         - docs
