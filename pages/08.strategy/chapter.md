@@ -7,4 +7,4 @@ taxonomy:
 
 # **<center>STRATEGY</center>**
 
-![alt-text](BethanyLogo.png"Bethany Baptist Church Logo")
+![alt-text](BethanyLogo.png "Bethany Baptist Church Logo")
