@@ -5,6 +5,6 @@ taxonomy:
     category: docs
 ---
 
-## Bethany Baptist Student Ministries Guidebook
+## **<center>Bethany Baptist Student Ministries Guidebook</center>**
 
 ![alt-text](BethanyLogo.png "Bethany Baptist Church Logo")
