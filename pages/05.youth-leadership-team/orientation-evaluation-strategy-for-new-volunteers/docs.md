@@ -29,6 +29,6 @@ It's Go Time! After the previous three steps have been completed _and a backgrou
 Once a leader has been approved and starts in Student Ministry, they are trained and discipled on a weekly basis. The leadership team functions as a small group--and one with purpose. All Student Ministries volunteers are expected to be at the pre-ministry meal where we break bread together. After that there is often mini-training sessions, a prayer time and last minute prep for the evening. After most events/meetings there is also a debrief/prayer time. 
 
 **Evaluation**
-New and ongoing volunteers will have evaluation time with the youth pastor. 
-New volunteers will have an evaluation scheduled at 3 , 6 and 10 (end of the school year) months to see how they are doing, and how the youth pastor can help support them. 
+New volunteers will not be "evaluated" per se. The Youth Pastor will meet with the new volunteer after the first, third and year-end months to take them through a self-relfective process. Because the ministry is relational, the "evaluation process" needs to be relational. Perception of personal strengths and weaknesses will be discussed, as well as challenges in ministry, etc. There will also be accountability in their spiritual and personal life. Strategies for improvement and moving forward will also be discussed. The Youth Pastor will ask if there are ways that he or she can support the new volunteer. 
+
 
