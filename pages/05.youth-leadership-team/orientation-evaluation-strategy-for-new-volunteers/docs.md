@@ -26,7 +26,7 @@ New volunteers are required to attend Leadership Training just before kick-off, 
 It's Go Time! After the previous three steps have been completed _and a background check has been passed_, they will begin serving in Student Ministry!
 
 **Ongoing Training & Discipleship**
-Once a leader has been approved and starts in Student Ministry, they are trained and discipled on a weekly basis. The leadership team functions as a small group--and one with purpose. All Studen Ministries volunteers are expected to be at the pre-ministry meal where we break bread together. After that there is often mini-training sessions, a prayer time and last minute prep for the evening. After most events/meetings there is also a debrief/prayer time. 
+Once a leader has been approved and starts in Student Ministry, they are trained and discipled on a weekly basis. The leadership team functions as a small group--and one with purpose. All Student Ministries volunteers are expected to be at the pre-ministry meal where we break bread together. After that there is often mini-training sessions, a prayer time and last minute prep for the evening. After most events/meetings there is also a debrief/prayer time. 
 
 **Evaluation**
 New and ongoing volunteers will have evaluation time with the youth pastor. 
