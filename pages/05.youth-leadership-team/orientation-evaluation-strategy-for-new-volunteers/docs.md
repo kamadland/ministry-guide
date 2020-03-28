@@ -19,14 +19,16 @@ If an invitation is given to consider joining the Student Ministries team, and t
 ###### **1.	Observation**
 Potential volunteers observe areas of ministry twice and are given an Observation Packet that includes job descriptions, a leader info package, and a leader application.
 ###### **2.	Interview** 
- All potential volunteers will meet with our youth pastor and one other youth leader for a 30 minute interview to help determine your area of interest, our needs, expectations, and potential start date.
-3.	Training
-o	New volunteers are required to attend Leadership Training just before kick-off.
-4.	1st Serve
-o	Go Time! - After the previous three steps have been completed and a background check has been passed, you will begin serving in Student Ministry!
-Ongoing Training & Discipleship
-Once a leader has been approved and starts in Student Ministry, they are trained and discipled on a weekly basis. The leadership team functions as a small group and one with purpose. All are expected to be at a pre-ministry meal where we break bread together. After that there is often mini-training sessions, a prayer time and last minute prep for the evening. After most events/meetings there is also a debrief/prayer time. 
-Evaluation
+All potential volunteers will meet with the youth pastor and one other youth leader for a 30 minute interview to help determine their area of interest, the ministry's needs & expectations, and potential start date.
+###### **3.	Training**
+New volunteers are required to attend Leadership Training just before kick-off, as well as agree to the "terms of service" which include attending the Pre-Ministry Dinners/mini-training throughout the year.
+###### **4.	Serve**
+It's Go Time! After the previous three steps have been completed _and a background check has been passed_, they will begin serving in Student Ministry!
+
+**Ongoing Training & Discipleship**
+Once a leader has been approved and starts in Student Ministry, they are trained and discipled on a weekly basis. The leadership team functions as a small group--and one with purpose. All Studen Ministries volunteers are expected to be at the pre-ministry meal where we break bread together. After that there is often mini-training sessions, a prayer time and last minute prep for the evening. After most events/meetings there is also a debrief/prayer time. 
+
+**Evaluation**
 New and ongoing volunteers will have evaluation time with the youth pastor. 
-New volunteers will have an evaluation scheduled at 3 , 6 and 10 (end of the school year) months  to see how they are doing and how the youth pastor can help support them. 
+New volunteers will have an evaluation scheduled at 3 , 6 and 10 (end of the school year) months to see how they are doing, and how the youth pastor can help support them. 
 
