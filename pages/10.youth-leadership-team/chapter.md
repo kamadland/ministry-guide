@@ -1,5 +1,5 @@
 ---
-title: 'TEAM'
+title: 'Team'
 media_order: BethanyLogo.png
 taxonomy:
     category: docs

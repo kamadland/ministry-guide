@@ -1,5 +1,5 @@
 ---
-title: ORGANIZATION
+title: Organization
 media_order: BethanyLogo.png
 taxonomy:
     category: docs
