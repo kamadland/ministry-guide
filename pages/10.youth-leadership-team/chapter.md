@@ -1,5 +1,5 @@
 ---
-title: 'TEAM '
+title: 'TEAM'
 media_order: BethanyLogo.png
 taxonomy:
     category: docs
@@ -8,4 +8,3 @@ taxonomy:
 # **<center>TEAM</center>**
 
 ![alt-text](BethanyLogo.png "Bethany Baptist Church Logo")
-
