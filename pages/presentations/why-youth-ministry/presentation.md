@@ -1,5 +1,5 @@
 ---
-title: Placeholder Slides Title
+title: Why Youth Ministry
 ---
 
 [.text: alignment(center)]
@@ -31,6 +31,11 @@ title: Placeholder Slides Title
 2. Topic Two   
 3. Topic Three  
 
+[notes]
+
+These are my notes.
+
+[/notes]
 ---
 
 [.background-color: #611036]
