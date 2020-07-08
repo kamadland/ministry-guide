@@ -50,11 +50,14 @@ He is our centre...our reason for existing as a church and as a youth ministry. 
 [notes]
 If Jesus is at the centre, this has implications for what we do. If that is the case, we should take a look at who he is. What is his heart?
 <br> get into groups of 3-6
-<br> Red the 2 passages on the slide and discuss the following question:
+<br> Read the 2 passages on the slide and discuss the following question:
+<br>
 <br> What are the implications for youth ministry? (5-10 minutes)
+<br>
 <br> Come back and share highlights from each groups
 <br> From John 1:12 draw out - we all have the right to be children of God/we are all part of one family.
-<br> from Mark 10:13-16 draw out - Sometimes the church at large and also the rest of society hinders youth from being a part of the family of God - we see this with the Nones, Gones - youth and young adults who are leaving the church in droves. As a youth ministry we need to stop being part of the problem and start being a bridge into full acceptance into the family of God - the church. So what is our mission?
+<br>
+<br> From Mark 10:13-16 draw out - Sometimes the church at large and also the rest of society hinders youth from being a part of the family of God - we see this with the Nones, Gones - youth and young adults who are leaving the church in droves. As a youth ministry we need to stop being part of the problem and start being a bridge into full acceptance into the family of God - the church. So what is our mission?
 <br>
 <br>
 (next slide)
