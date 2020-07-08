@@ -126,6 +126,9 @@ Groups of 3-6 to read and discuss the following questions:<br> How do you think 
 If our mission, then, is to disciple youth into a new story, we need a vision of how to do that.
 <br>
 <br>
+In order to develop a vision of how to do youth ministry, we should learn a little bit about youth and what they are dealing with, and what they need. We can't make them believe in Jesus or heal them from hurts or make them choose good choices as well as involvement in church. But we can work towards learning who they are and what they need so we can create an environment that opens doors for those things to be able to happen. So what do the youth of today need?
+<br>
+<br>
 (next slide)
 [/notes]
 
