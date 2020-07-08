@@ -8,9 +8,9 @@ title: Why Youth Ministry
 [notes]
 This presentation is for the class:
 <ins>Thinking Theologically About Youth Ministry</ins>
-Professor: Rev. Dr. Chap Clark
-The Coalition for Youth Ministry Excellence
-July 10, 2020
+<br>Professor: Rev. Dr. Chap Clark
+<br>The Coalition for Youth Ministry Excellence
+<br>July 10, 2020
 [/notes]
 
 
