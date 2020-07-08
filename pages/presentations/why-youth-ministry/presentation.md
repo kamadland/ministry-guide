@@ -48,7 +48,7 @@ He is our centre...our reason for existing as a church and as a youth ministry. 
 ![fit](4.png)
 
 [notes]
-If Jesus is at the centre, then we should take a look at who he is. What is his heart?
+If Jesus is at the centre, this has implications for what we do. If that is the case, we should take a look at who he is. What is his heart?
 <br> get into groups of 3-6
 <br> Red the 2 passages on the slide and discuss the following question:
 <br> What are the implications for youth ministry? (5-10 minutes)
