@@ -123,7 +123,10 @@ Groups of 3-6 to read and discuss the following questions:<br> How do you think 
 ![fit](8.png)
 
 [notes]
-hello how are you? This is where I write my notes.
+If our mission, then, is to disciple youth into a new story, we need a vision of how to do that.
+<br>
+<br>
+(next slide)
 [/notes]
 
 
