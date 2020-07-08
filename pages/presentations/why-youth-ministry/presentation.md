@@ -2,6 +2,14 @@
 title: Why Youth Ministry
 ---
 
+
+---
+![fit](1.png)
+
+[notes]
+hello how are you? This is where I write my notes.
+[/notes]
+---
 [.text: alignment(center)]
 
 # CPT 363
