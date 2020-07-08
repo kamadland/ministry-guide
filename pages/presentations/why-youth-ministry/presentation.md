@@ -57,7 +57,7 @@ If Jesus is at the centre, this has implications for what we do. If that is the 
 <br> Come back and share highlights from each groups
 <br> From John 1:12 draw out - we all have the right to be children of God/we are all part of one family.
 <br>
-<br> From Mark 10:13-16 draw out - Sometimes the church at large and also the rest of society hinders youth from being a part of the family of God - we see this with the Nones, Gones - youth and young adults who are leaving the church in droves. As a youth ministry we need to stop being part of the problem and start being a bridge into full acceptance into the family of God - the church. So what is our mission?
+<br> From Mark 10:13-16 draw out - Sometimes the church at large and also the rest of society hinders youth from being a part of the family of God - we see this with the Nones, Gones - youth and young adults who are leaving the church in droves. As a youth ministry we need to stop being part of the problem and start being a bridge into full acceptance into the family of God - the church.
 <br>
 <br>
 (next slide)
@@ -69,7 +69,17 @@ If Jesus is at the centre, this has implications for what we do. If that is the 
 ![fit](5.png)
 
 [notes]
-hello how are you? This is where I write my notes.
+So what is our mission?
+<br>
+<br>
+As we just read, anyone who believes and accepts Jesus is a child of God - so we are all his children and we are all part of his family, no matter what age.
+<br> Therefore Youth Ministry is a part of the larger church, and we need to function, not as a silo unto ourselves, but as a bridge for students to be part of the whole. If that is the case, our mission should be the same as the whole church...and in fact, some youth leaders agreed upon this at the last visioning meeting.
+<br>
+<br>
+Does anyone know the church's mission statement...which is our youth ministry mission statement as well?
+<br>
+<br>
+(next slide)
 [/notes]
 
 
@@ -78,7 +88,15 @@ hello how are you? This is where I write my notes.
 ![fit](6.png)
 
 [notes]
-hello how are you? This is where I write my notes.
+What things are implied by this mission statement?
+<br>
+<br> draw out - Got's story offered to be ours (redemption).
+<br> - Discipling - we journey together.
+<br> the old has gone the NEW has come.
+<br> etc.
+<br>
+<br>
+(next slide)
 [/notes]
 
 
