@@ -11,6 +11,9 @@ This presentation is for the class:
 <br>Professor: Rev. Dr. Chap Clark
 <br>The Coalition for Youth Ministry Excellence
 <br>July 10, 2020
+<br>
+<br>
+Youth Ministry is a staple program in the modern Church, but have you ever thought about WHY it exists as a program? Just because something has always been done a certain way, doesn't necessarily mean it should continue. Hopefully, by the power of the Holy Spirit, we will be constantly re-evaluating how we do church up and against God's Word. Is there a Biblical reason for providing youth ministry? Let's talk about it. 
 [/notes]
 
 
