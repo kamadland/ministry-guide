@@ -6,7 +6,11 @@ title: Why Youth Ministry
 ![fit](1.png)
 
 [notes]
-hello how are you? This is where I write my notes.
+This presentation is for the class:
+<ins>Thinking Theologically About Youth Ministry</ins>
+Professor: Rev. Dr. Chap Clark
+The Coalition for Youth Ministry Excellence
+July 10, 2020
 [/notes]
 
 
