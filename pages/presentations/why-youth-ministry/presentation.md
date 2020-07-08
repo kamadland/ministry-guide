@@ -26,6 +26,8 @@ Jesus. That's it. Thank you for coming and have a great day.
 <br>
 <br>
 But seriously, everything we DO at Bethany Student Ministries is aimed at pointing students to Jesus.
+<br>
+<br> (next slide)
 [/notes]
 
 
@@ -35,6 +37,9 @@ But seriously, everything we DO at Bethany Student Ministries is aimed at pointi
 
 [notes]
 He is our centre...our reason for existing as a church and as a youth ministry. If he wasn't, we would simply be a community centre at best.
+<br>
+<br>
+(next slide)
 [/notes]
 
 
@@ -49,7 +54,10 @@ If Jesus is at the centre, then we should take a look at who he is. What is his 
 <br> What are the implications for youth ministry? (5-10 minutes)
 <br> Come back and share highlights from each groups
 <br> From John 1:12 draw out - we all have the right to be children of God/we are all part of one family.
-<br> from Mark 10:13-16 draw out - Sometimes the church at large and also the rest of society hinders youth from being a part of the family of God - we see this with the Nones, Gones - youth and young adults who are leaving the church in droves. As a youth ministry we need to stop being part of the problem and start being a bridge into full acceptance into the family of God - the church. So what is our mission? 
+<br> from Mark 10:13-16 draw out - Sometimes the church at large and also the rest of society hinders youth from being a part of the family of God - we see this with the Nones, Gones - youth and young adults who are leaving the church in droves. As a youth ministry we need to stop being part of the problem and start being a bridge into full acceptance into the family of God - the church. So what is our mission?
+<br>
+<br>
+(next slide)
 [/notes]
 
 
