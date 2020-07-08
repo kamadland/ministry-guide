@@ -105,7 +105,14 @@ What things are implied by this mission statement?
 ![fit](7.png)
 
 [notes]
-hello how are you? This is where I write my notes.
+Groups of 3-6 to read and discuss the following questions:<br> How do you think these passages apply to Youth Ministry? <br> what is at stake? <br> What do you think is our responsibility/privilege as a child of God? <br> how does all of this fit or not fit with our mission statement? (5-10 minutes)
+<br>
+<br> Come back to large group & share highlights
+<br> Draw out/ask - can the illustration of the lost sheep apply to a group of people; ie, youth, black people? Why or why not? <br>
+- our responsibility is to please the Lord - what things please the Lord? Can you use scripture to answer? (ie, helping rescue a lost sheep, cup of water, Micah 6:8, etc)
+<br> Is youth ministry/ the goal of our mission statement a good thing that would please the Lord? Is this something you would love to stand before the Lord one day and show him you have done?
+<br>
+<br>
 [/notes]
 
 
