@@ -385,7 +385,12 @@ Now read verse 31 in the same chapter and browse chapter 13, and read Galatians 
 [notes]
 Love is the most important thing. That is Jesus' heart. His Father's heart. God so LOVED the world that he gave his son...
 <br>  
+Jesus invites us to believe in him and to be a part of his family. We want to help Youth on their journey through adolescence, we want them to know they have an invite from Jesus and that they have a place in the family of God. They ARE the church.  <br>  
 <br>  
+What an exciting calling to be a part of! We are excited to work with you!  <br>  
+<br>  
+
+
 (next slide)
 [/notes]
 
