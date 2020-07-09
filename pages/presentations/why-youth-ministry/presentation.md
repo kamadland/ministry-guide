@@ -400,7 +400,9 @@ What an exciting calling to be a part of! We are excited to work with you!  <br>
 
 ![fit](25.png)
 
+
 [notes]
+<br>  
 
 [/notes]
 
