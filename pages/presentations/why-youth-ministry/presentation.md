@@ -211,7 +211,19 @@ Then we want to get to know them in small groups, build relationships and good m
 ![fit](13.png)
 
 [notes]
-hello how are you? This is where I write my notes.
+Once again, get into groups of 3-6 and read and discuss the following questions in light of the scriptures on the slide:  
+<br>  
+<ul>  
+1. What about this strategy to you agree with and what do you disagree with?  <br>  
+2. As a youth leader/small group leader and in light of these scriptures, what do you see as your responsibility?  <br>  
+</ul>
+<br>
+<br>
+gather back in a large group and share highlights  <br>
+<br>
+Draw out - paul shared his life with the Thessalonians as a family member - and then had the right to speak into their lives because it was based on established trust and love.  <br>
+<br>
+
 [/notes]
 
 
