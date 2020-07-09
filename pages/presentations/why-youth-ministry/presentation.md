@@ -215,16 +215,19 @@ Once again, get into groups of 3-6 and read and discuss the following questions 
 <br>  
 <ul>  
 1. What about this strategy to you agree with and what do you disagree with?  <br>
-<br> 
+<br>
 2. As a youth leader/small group leader and in light of these scriptures, what do you see as your responsibility?  <br>  
 </ul>
 <br>
 <br>
 gather back in a large group and share highlights  <br>
 <br>
-Draw out - paul shared his life with the Thessalonians as a family member - and then had the right to speak into their lives because it was based on established trust and love.  <br>
+Draw out - paul shared his life with the Thessalonians as a family member - and then had the right to speak into their lives because it was based on established trust and love.
+ <br>
 <br>
-
+That takes time and commitment and sacrifice. (However, it also does not mean having zero boundaries - but that is another seminar).  <br>  
+<br>
+ (next slide) 
 [/notes]
 
 
