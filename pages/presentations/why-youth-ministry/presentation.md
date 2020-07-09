@@ -408,20 +408,3 @@ What an exciting calling to be a part of! We are excited to work with you!  <br>
 
 
 ---
-
-[.text: alignment(center)]
-
-# CPT 363
-
-### Slides Placeholder
-
-> “A work in progress. And the possibilities are endless.”
--- Elizabeth Eulberg
-
----
-
-[.background-color: #FFFFFF]
-
-![fit](https://hibbittsdesign.org/images/ux-toolkit-8-no-numbers.png "Diagram of user experience design process/techniques")
-
----
