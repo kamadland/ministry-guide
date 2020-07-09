@@ -397,14 +397,6 @@ What an exciting calling to be a part of! We are excited to work with you!  <br>
 
 ---
 
-![fit](24.png)
-
-[notes]
-hello how are you? This is where I write my notes.
-[/notes]
-
-
----
 
 ![fit](25.png)
 
