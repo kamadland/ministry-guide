@@ -227,7 +227,7 @@ Draw out - paul shared his life with the Thessalonians as a family member - and 
 <br>
 That takes time and commitment and sacrifice. (However, it also does not mean having zero boundaries - but that is another seminar).  <br>  
 <br>
- (next slide) 
+ (next slide)
 [/notes]
 
 
@@ -236,7 +236,21 @@ That takes time and commitment and sacrifice. (However, it also does not mean ha
 ![fit](14.png)
 
 [notes]
-hello how are you? This is where I write my notes.
+The beliefs and values that the youth ministries team came up with also plays heavily into our strategy. You can find these on my website, docs.thinkclearly.ca   <br>
+<br>
+**We believe that we exist to enjoy God and glorify Him**  We love to have fun at Bethany Student Ministries, but we have fun that is filled with purpose. We are not a ministry that runs events for the sake of simply occupying students. We run events to reflect God's love, to teach about him and his Good News, and to glorify him, *while having fun*. We want our speech, our lives and how we love others to reflect God and be a witness for him. There fore, we will strive to have JOY-by putting Jesus first, others second and ourselves third.  <br>  
+<br>
+**We believe that everyone matters**  Because every person is made in God's image, that means He knows who they are and He loves them. He sent his son to die for them and sees each person and infinitely valuable and precious. Thus, we need to see them that way too! So regardless of size, age, colour, gender, body odour or odd behaviour, every person matters and needs to be treated with dignity. Every person should have the opportunity to hear about their Maker, how much he loves them, and to what extent he has already gone to reconnect with them.  <br>
+<br>
+**We believe in being a safe space**  Because every student who walks through that door matters, we want them to feel safe and welcome. Bethany Student Ministries needs to be a place they can call their own; a place that they want to return to. We will not tolerate bullying in any form. Confidentiality will be respected as long as no imminent harm will come to a student or someone else. Asking tough  questions will be valued and not judged.  <br>  
+<br>
+**We believe in discipleship**  Our great mission, given by Jesus, was to go and make disciples, baptizing them and teaching them all about what God has taught us to do and be as his family. Disciples make disciples; so in all we do, we see to walk with students and help form them into disciples of Christ. We will create opportunities for learning, worshipping, participating in spiritual disciplines and service to others. Most of our students who are regular churchgoers serve in children's ministry, in the hospitality ministry or on the audiovisual team. As we learn of their gifts, we would also advocate for other opportunities.  <br>
+<br>
+**We highly value small groups**  we value small group ministry, and seek to make use of it in discipleship and in fostering a sense of belonging, trust and security. Jesus modelled discipleship in this manner, therefore, we will attempt to do the same. The youth leaders are mentored by the youth pastor as a small group as well. They learn, study, pray, play and break bread together. Then the youth leaders mentor their specific small group in the youth ministry, ideally walking with them for as long as possible throughout their years in youth group.  <br>
+<br>
+**We believe in being a people of prayer and of the Book**  We are on a journey of learning God's Story and how we are to live as part of his family in that story. We believe God's Word to be true and worthy of study. We believe it is living and active and therefore speaks to our lives an dhow to live them. We also believe that God speaks and listens to us. We will strive to be a people of prayer even thought we don't fully understand how it works, trusting the Holy Spirit and the Word of God to teach us. we will explore ways to express ourselves to God and ways to listen to Him.  <br>
+<br>
+(next slide)
 [/notes]
 
 
