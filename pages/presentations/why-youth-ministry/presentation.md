@@ -283,7 +283,21 @@ You are actually the secret ingredient to the recipe of creating the environment
 ![fit](17.png)
 
 [notes]
-hello how are you? This is where I write my notes.
+(Groups of 3-6)  <br>
+For the John passage, make a note to read the verse on the slide, then read what come before; verses 5-17. Then reread verse 16.
+
+After reading both passages, discuss what you think I mean by YOU being the prequel to every youth ministry gathering in light of those passages. What implications for your life arise from this? (5-10 min)  <br>
+<br>
+Large group discussion highlights <br>
+<br>
+Draw out - You are an agent of God's kingdom - you are praying for God's kingdom to come, for his will to be done. As Christians, that is our hope and desire, yes? <br>
+Therefore, if you are discipling others, you need to stay in Christ, in the vine. A plant that doesn't get watered or fed by something just shrivels and dies and isn't any good to anyone. It certainly isn't going to produce food for others or grow the main plant it is a part of any further. It is vital for you to have an active relationship with Christ - to remain in him, to be on your own journey in order to live by example for these kids. You aren't expected to have to do this all on your own, that is what our leader's small group is partly for. Another great resource for this are spiritual disciplines (journaling, or lectio divina or secret giving, or practicing the presence and so on - there are many to explore). These are a response to God's love for us, not a responsibility. Remember, Discipleship is an inside to outside endeavour. You can't make kids encounter God. That is the Holy Spirit's job. But we can show up, share ourselves and our journey authentically, listen to their stories. Then we will be able to invite kids to discover who they are as found children of the king.  It starts with you. <br>
+<br>
+
+
+(next slide)
+
+
 [/notes]
 
 
