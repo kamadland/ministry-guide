@@ -214,7 +214,8 @@ Then we want to get to know them in small groups, build relationships and good m
 Once again, get into groups of 3-6 and read and discuss the following questions in light of the scriptures on the slide:  
 <br>  
 <ul>  
-1. What about this strategy to you agree with and what do you disagree with?  <br>  
+1. What about this strategy to you agree with and what do you disagree with?  <br>
+<br> 
 2. As a youth leader/small group leader and in light of these scriptures, what do you see as your responsibility?  <br>  
 </ul>
 <br>
