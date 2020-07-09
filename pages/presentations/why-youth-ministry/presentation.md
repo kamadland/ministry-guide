@@ -166,7 +166,13 @@ With belonging, adolescence want a place/community to belong that is bigger than
 ![fit](10.png)
 
 [notes]
-hello how are you? This is where I write my notes.
+(read the vision aloud)
+As you can see, the vision of how to do youth ministry, and who we aim to be, is borne out of the needs of adolescents from the previous slide. <br>  
+Because they need to feel that they belong to something greater than themselves, we want to be *inviting*. Our church's vision uses the word "winning", but I feel that winning implies an agenda on our part. It comes from good intentions - we want to win souls for Christ. But our culture has changed and sometimes these old illustrations come to have different meanings. Winning also implies competition and achievement. Youth can smell inauthenticity and personal agendas a mile away. The bait and switch method of evangelism should be avoided at all costs. Kids need a place to belong, to be loved; a place of warmth and safety. The rest of the world is cold and they feel it is against them. We want youth group to be a place where they can be welcomed just as they are, welcomed with a smile, and a place where they can find community. Out of that will come the fun and a chance to BE the gospel to them and share it verbally with them out of the truth we are living.  <br>  
+Because adolescents need to figure out who they are, we want to be a *nurturing* community. Bethany's vision statement says the word "equipping", but again, because the world is a different place for youth than it was 10 and 20 years ago or more, we need to change the nature of how we approach ministry. Equipping is part of nurturing, and we certainly want to continue with helping them engage with God's word, allowing them space to ask tough questions without judgment. We want to walk with them on their journeys through thick and thin by making small groups a central part of what we do. But we want to do this thoughtfully, and carefully, with warmth and real care and concern. This isn't just putting in time to earn brownie points with God. This is about real relationships, about being family - God's family.  <br>  
+And finally, because adolescents need autonomy - a sense of power and worth, we want to be able to hand them the keys to that, so to speak. We want to be *empowering* in youth ministry. We want to help each student find and develop the gifts God has given them. This is done by mentoring via small groups, service opportunities inside and outside of church, as well as listening to their ideas and fanning their flame to implement them. The beauty of this is that it helps them figure out who they are as well as gives them a sense of belonging.  <br>  
+<br>
+(next slide)
 [/notes]
 
 
