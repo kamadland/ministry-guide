@@ -369,7 +369,10 @@ In all of this youth ministry stuff, the goal is to be the Church because the Ch
 ![fit](22.png)
 
 [notes]
-hello how are you? This is where I write my notes.
+(Groups of 3-6) First read 1 Corinthians 12:4-7 only and discuss how this applies to you and to the youth and whether or not there is a difference in application?  I'll give you 4 or 5 minutes.  <br>  
+Now read verse 31 in the same chapter and browse chapter 13, then discuss what is the point I am trying to make?  <br>  
+(discuss as large group)
+
 [/notes]
 
 
