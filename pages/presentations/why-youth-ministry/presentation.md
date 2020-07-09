@@ -329,7 +329,10 @@ Then, each of you/us has a small group of youth who you get to shepherd/pastor. 
 ![fit](19.png)
 
 [notes]
-hello how are you? This is where I write my notes.
+We also do things in large groups and have fun events! But there is a purpose to them. On the outside they may look just dumb and dumber, but really it might be for building community, dropping barriers, creating joy, making new friendships and so on. All the while, you get to play with them and be an example in word and deed. Maybe you are just having fun without swearing, or maybe you defend someone from a nasty comment, or maybe you gently redirect poor choices. It is important for you to get involved in whatever is going on - even in the silly games. As a leader, you can invite yourself into a team - likely your small group. Kids default to thinking that we don't want to hang out with them. (Sometimes, we have to be willing to get over our own insecurity because we are the leaders - there is a power differential there. In some cases, it is our responsibility to be the initiator in youth ministry).  <br>  
+
+(next slide)
+
 [/notes]
 
 
