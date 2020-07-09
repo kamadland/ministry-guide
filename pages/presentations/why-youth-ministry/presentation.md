@@ -321,7 +321,3 @@ hello how are you? This is where I write my notes.
 ![fit](https://hibbittsdesign.org/images/ux-toolkit-8-no-numbers.png "Diagram of user experience design process/techniques")
 
 ---
-
-[youtube]https://www.youtube.com/watch?v=Nj6x01wg2WA[/youtube]
-
----
