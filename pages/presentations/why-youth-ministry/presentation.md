@@ -372,8 +372,7 @@ In all of this youth ministry stuff, the goal is to be the Church because the Ch
 (Groups of 3-6) First read 1 Corinthians 12:4-7 only and discuss how this applies to you and to the youth and whether or not there is a difference in application?  I'll give you 4 or 5 minutes.  <br>  
 Now read verse 31 in the same chapter and browse chapter 13, and read Galatians 5:6 - then discuss what you do think is the point I am trying to make?  <br>  
 (discuss as large group) Draw out - love for others is the most important thing. - we could catechize and make sure the kids all know the books of the Bible and can spout out correct Sunday School answers, but if there is no love in our ministry, they won't stay when they grow up. They would do what they needed to in order to "survive" the loveless ministry while they had to be there, and then when they grew up they would leave asap.  <br>
-
-Love is the most important thing. That is Jesus' heart. His Father's heart. God so LOVED the world that he gave his son...<br>   
+<br>   
 (next slide)
 
 [/notes]
@@ -383,7 +382,11 @@ Love is the most important thing. That is Jesus' heart. His Father's heart. God 
 
 ![fit](23.png)
 
-
+[notes]
+Love is the most important thing. That is Jesus' heart. His Father's heart. God so LOVED the world that he gave his son...
+<br>  
+<br>  
+(next slide)
 [/notes]
 
 
