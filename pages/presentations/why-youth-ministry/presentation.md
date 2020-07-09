@@ -259,7 +259,10 @@ The beliefs and values that the youth ministries team came up with also plays he
 ![fit](15.png)
 
 [notes]
-hello how are you? This is where I write my notes.
+So what is the structure of Bethany Student Ministries? What things do we do to actually accomplish this environment that we want to create?  <br>
+<br>
+
+(next slide)
 [/notes]
 
 
