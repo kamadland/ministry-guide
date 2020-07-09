@@ -308,9 +308,10 @@ Therefore, if you are discipling others, you need to stay in Christ, in the vine
 [notes]
 So if you are the prequel, small groups are the central story in the series. Every youth gathering is built around small groups.  Jesus modelled his discipleship this way, so we figure it is a good place to start.  <br>  
 <br>   
-<ol>  
+
 As leaders, we meet as a small group. As the Youth Pastor, I facilitate this, but the goal is for you to lead and have input and be empowered to implement your gifts and ideas (the difference between this being a job and living out your call in the family of God). I am a leader among equals.  <br>  <br>   
-Then, each of you/us has a small group of youth who you get to shepherd/pastor. What are the benefits?  <br>  
+Then, each of you/us has a small group of youth who you get to shepherd/pastor. What are the benefits?  <br>
+<ol>   
     - Provides a "safe space"  <br>  
     - Creates community/Belonging  <br>  
     - A place where they have a voice and can be heard  <br>  
