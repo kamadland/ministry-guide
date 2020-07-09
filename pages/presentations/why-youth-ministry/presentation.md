@@ -271,8 +271,8 @@ So what is the structure of Bethany Student Ministries? What things do we do to 
 ![fit](16.png)
 
 [notes]
-You are actually the secret ingredient to the recipe of creating the environment at each event. You are the prequel to the main series of events. --This is why it is so wonderful that you want to (or are interested in) being a part of the youth ministry here at Bethany.-- So what do I mean by this?  <<br>>
-<<br>>
+You are actually the secret ingredient to the recipe of creating the environment at each event. You are the prequel to the main series of events. --This is why it is so wonderful that you want to (or are interested in) being a part of the youth ministry here at Bethany.-- So what do I mean by this?  <br>
+<br>
 
 (next slide)
 [/notes]
