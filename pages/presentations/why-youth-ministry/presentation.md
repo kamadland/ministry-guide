@@ -397,6 +397,7 @@ What an exciting calling to be a part of! We are excited to work with you!  <br>
 
 ---
 
+[.background-color: #FFFFFF]
 
 ![fit](25.png)  
 
