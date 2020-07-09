@@ -343,7 +343,7 @@ We also do things in large groups and have fun events! But there is a purpose to
 [notes]
 During the COVID-19 pandemic, this won't be very applicable, but as we get back to meeting as a whole congregation, Sunday mornings are a part of the "series" of structure to the youth ministry as well. You may not be running a program directly on Sunday morning, but you are going to see and interact with your kids. It is not a requirement for you to sit with them during the service...but maybe you do! Maybe you suggest your small group sit together once in a while. Remember, being a youth leader isn't a job, it is a relationship. And we want to be a bridge to the rest of the church. So your interactions with them on Sunday morning are actually quite important. The key is for these interactions to become organic yet deliberate. What do you think I mean by that? <br>   
 (take answers)  <br>  <br>
-Give some conrete examples of what this could look like.  <br>    
+Give some concrete examples of what this could look like.  <br>    
 (take ideas) - introduce them to other adults, perhaps ones that have a job in their area of interest or gifting; go out for lunch with some of them. just hang out with them after the service for a bit, etc  <br>  <br>  
 The more the rest of the church sees them interacting with you and gets to know them and see them involved, the more the students will feel they belong. <br>  <br>  
 
@@ -358,7 +358,9 @@ The more the rest of the church sees them interacting with you and gets to know 
 ![fit](21.png)
 
 [notes]
-hello how are you? This is where I write my notes.
+In all of this youth ministry stuff, the goal is to be the Church because the Church points to Jesus. So in your calling to be an agent of the Kingdom, by doing so in youth ministry as part of the Church, your gifts are being used to build up the family of God. You will be literally be a part of giving students the keys to the Kingdom!  <br>
+<br>
+(next slide)  
 [/notes]
 
 
