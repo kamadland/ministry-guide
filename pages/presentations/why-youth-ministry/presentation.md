@@ -143,6 +143,7 @@ Dr. Chap Clark suggests in his book Adoptive Church, that there are 3 tasks of a
   1. Belonging  <br>  
   2. Identity  <br>  
   3. Autonomy  <br>
+<br>
 With belonging, adolescence want a place/community to belong that is bigger than themselves. This is so great because we can introduce God's Story to them - the overarching story of mankind and God's fight to redeem it is a story much bigger than each of them, and yet they are intimately a part of it and God has written a part specifically for them. Kids need to know that they are loved and supported beyond their own families - especially kids where their families are not a safe or supportive place.
 <br>
 <br> Identity is about figuring out who they are becoming and who they want to be. That is why it can seem they change from week to week. It is a time of experimentation and walking that journey. It is such a great time to help them know that their identity can be found in Christ as opposed to so many other things that vie for their allegiance.  
