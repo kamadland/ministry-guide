@@ -311,10 +311,10 @@ So if you are the prequel, small groups are the central story in the series. Eve
 <ol>  
 - As leaders, we meet as a small group. As the Youth Pastor, I facilitate this, but the goal is for you to lead and have input and be empowered to implement your gifts and ideas (the difference between this being a job and living out your call in the family of God). I am a leader among equals.  <br>  
 - Then, each of you/us has a small group of youth who you get to shepherd/pastor. What are the benefits?  <br>  
-    - Provides a "safe space"
-    - Creates community/Belonging
-    - A place where they have a voice and can be heard
-    - a place where they can grow in their understanding of Christ and ask questions without judgment  <br>  
+    - Provides a "safe space"  <br>  
+    - Creates community/Belonging  <br>  
+    - A place where they have a voice and can be heard  <br>  
+    - a place where they can grow in their understanding of Christ and ask questions without judgment  <br>    
 </ol>  
 <br>
 <br>
